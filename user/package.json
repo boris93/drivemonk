@@ -1,0 +1,16 @@
+{
+  "name": "Music system",
+  "version": "0.0.1",
+  "description": "User music system, runs in BASE, controls music via hardware buttons and speech",
+  "dependencies": {
+    "node-opus": "^0.1.12",
+    "ogg": "^1.2.4",
+    "request": "^2.69.0",
+    "socket.io-client": "^1.4.4",
+    "socket.io-stream": "^0.9.0",
+    "speaker": "^0.2.6",
+    "stream-meter": "^1.0.3",
+    "sux": "^0.1.5",
+    "uuid": "^2.0.1"
+  }
+}

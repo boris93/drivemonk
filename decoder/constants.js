@@ -1,0 +1,5 @@
+module.exports = {
+    AUDIO_OUTPUT_SAMPLE_RATE: 16000,
+    AUDIO_OUTPUT_CHANNELS: 1,
+    OPUS_FRAME_SIZE: 16000 / 50
+};

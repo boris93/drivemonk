@@ -1,0 +1,14 @@
+{
+  "name": "asr-decoder",
+  "version": "0.0.1",
+  "description": "Decode speech to text",
+  "dependencies": {
+    "audio-biquad": "^1.0.2",
+    "node-opus": "^0.1.11",
+    "ogg": "^1.2.4",
+    "socket.io-client": "^1.4.4",
+    "socket.io-stream": "^0.9.0",
+    "speaker": "^0.2.6",
+    "stream-to-array": "^2.2.1"
+  }
+}
